@@ -1,3 +1,3 @@
 docker-prometheus-grafana
 
-Stack de monitoramento usando uma app em docker, prometheus e grafana.
+Monitoring stack using docker, prometheus e grafana.
